@@ -12,21 +12,21 @@ export const HTB = () => {
          "tXn"
       ),
       htbFunc(
-         "h2.png",
-         "Bridge ETH over onto Arbitrum",
-         "Have some ETH on L1 / Ethereum Mainnet, swap it on a bridge onto Arbitrum You can also buy ETH on Arbitrum directly on exchanges like Binance and Crypto.com.",
+         "bscscan.png",
+         "Fund your wallet with BSC",
+         "Have some BSC (binance smart chain) token. $Jeet will be launching on bsc chain. you need BSC to purchase the token on a DEX (Pancakeswap).",
          "tXp"
       ),
       htbFunc(
-         "h3.png",
-         "Purchase $MPEPE using camelot",
-         "Navigate to Camelot and ensure you are on Arbitrum (not L1 / Ethereum Mainnet). Use Camelot V2 to buy.",
+         "pkswap.png",
+         "Purchase $MPEPE using Pancakeswap",
+         "Navigate to Pancakeswap.finance and ensure you are on BSC mainnet. Use V2 to buy.",
          "tXn"
       ),
       htbFunc(
          "h4.png",
-         "Switch ETH for $MPEPE",
-         "Swap Eth for MPEPE on the V2 exchange , if the token doesn’t appear copy paste the contract.There is Zero Tax so there is no worry for specific slippage, although you may have to use slippage during market volatility.",
+         "Switch BSC for $Jeet",
+         "Swap BSC for $Jeet on the V2 exchange , if the token doesn’t appear copy paste the contract.There is Zero Tax so there is no worry for specific slippage, although you may have to use slippage during market volatility.",
          "tXp"
       ),
    ];

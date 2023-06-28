@@ -13,9 +13,9 @@ export default function Roadmap() {
                </div>
                <div className="col-lg-4 p-3 col-12">
                   <div className="r-wrap">
-                     <span>Phase 1: Vibe</span> <br />
-                     <span>Phase 1: Vibe</span> <br />
-                     <span>Phase 1: Vibe</span>
+                     <span>Phase 1: Meme</span> <br />
+                     <span>Phase 2: Vibe and HODL</span> <br />
+                     <span>Phase 3: Meme Takeover</span>
                      <br />
                   </div>
                </div>
