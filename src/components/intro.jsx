@@ -13,12 +13,10 @@ export default function Intro() {
                      </div>
                      <div className="intro-text-body text-light">
                         <p>
-                           This token exists to make Jeets bag sellers regret
-                           their choice. It reminds them of missed opportunities
-                           and the value they let go. With each transaction, it
-                           reinforces the message that holding onto Jeets bags
-                           would have been wiser. It's a powerful symbol, urging
-                           reflection and motivating future action.
+                           We are a group of degens who are here for the
+                           enjoyment and community spirit. This project is
+                           solely meant to teach jeets a lesson and bring
+                           laughter to the BSC community.
                         </p>
                         <div className="img-con">
                            {imgArr.map((i, index) => (

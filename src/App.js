@@ -14,8 +14,8 @@ function App() {
       <Header />
       <Intro />
       <About/>
-      <HTB />
       <Tokenomics />
+      <HTB />
       <Roadmap />
       <Footer />
     </div>

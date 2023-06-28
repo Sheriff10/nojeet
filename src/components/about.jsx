@@ -25,9 +25,6 @@ export default function About() {
                            have decided to create a token Notforjeets (JEETS)
                            We're a group of passionate individuals committed to
                            creating an exciting community-driven project.
-
-                           <br /> <br />
-                           TOKENOMICS: Supply: 999,000,000,000,000,000 JEETS
                         </p>
                      </div>
                   </div>

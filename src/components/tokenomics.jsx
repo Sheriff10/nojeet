@@ -20,9 +20,9 @@ export default function Tokenomics() {
                            <p>No Taxes, No Bullshit. It’s that simple.</p>{" "}
                            <br />
                            <p>
-                              We need jeets outs to we can moon hard. 100% to
-                              the token will he sent to the liquidity pool, lp
-                              wil be burnt and contract will be renounced. We
+                              We need jeets outs to we can moon hard. 100% of
+                              the token will be sent to the liquidity pool, lp
+                              will be burnt and contract will be renounced. We
                               hate jeets and we are ready to fuck them up.
                            </p>
                         </div>
