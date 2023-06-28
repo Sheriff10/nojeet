@@ -7,7 +7,8 @@ export default function Contact() {
          <div className="container">
             <div className="c-head">
                <h1>CONTACT</h1>
-            </div> <br />
+            </div>{" "}
+            <br />
             <div className="c-icon">
                <i>
                   <FaTwitter />
@@ -15,13 +16,11 @@ export default function Contact() {
                <i>
                   <FaTelegram />
                </i>
-            </div> <br />
+            </div>{" "}
+            <br />
             <div className="c-body">
                <p>
-                  NotForJeets loves holders and we pledge to make them feel
-                  good. W3 wil definitely make jeets pay for selling their bags.
-                  We do not have any utility, because the dev is poor and hates
-                  to borrow.
+                  We do not have any utility. Dev is poor and hates to borrow
                </p>
             </div>
          </div>
