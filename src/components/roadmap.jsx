@@ -25,10 +25,8 @@ export default function Roadmap() {
             </div>
             <div className="d-flex justify-content-center">
                <div className="r-comment text-center col-lg-6 p-3">
-                  Keeping humor aside, here is a preliminary outline of the
-                  future trajectory of $Jeets. We prefer not to reveal all the
-                  details upfront, so anticipate delightful surprises as we
-                  progress.
+                  No fooling around! The path ahead for $Jeets is an absolute
+                  onslaught of intensity. Prepare for jaw-dropping surprises
                </div>
             </div>
             <div className="row">
