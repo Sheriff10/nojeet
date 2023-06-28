@@ -40,11 +40,11 @@ export const HTB = () => {
                {htbArr.map((i, index) => (
                   <div className={`col-12 ${i.tClass}`} key={index}>
                      <div className="container">
-                        <div className="htb-con">
-                           <div className="htb-img">
+                        <div className="htb-con row">
+                           <div className="htb-img col-lg-2 col-12">
                               <img src={i.img} alt="Mpepe" />
                            </div>
-                           <div className="htb-text col-lg-10 ">
+                           <div className="htb-text col-lg-10 col-12">
                               <div className="s-wrp">
                                  <span>{i.title}</span> <br />
                               </div>

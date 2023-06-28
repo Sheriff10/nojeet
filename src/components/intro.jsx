@@ -6,7 +6,7 @@ export default function Intro() {
       <div className="intro bg-pr">
          <div className="container">
             <div className="row align-items-center">
-               <div className="col-8">
+               <div className="col-lg-8 col-12">
                   <div className="intro-text">
                      <div className="intro-text-head text-light">
                         <h1>$JEET</h1>
@@ -29,7 +29,7 @@ export default function Intro() {
                      </div>
                   </div>
                </div>
-               <div className="col-4">
+               <div className="col-lg-4 col-12">
                 <div className="intro-img d-flex justify-content-center">
                     <img src="./pepe.png" alt="jeet" className="img-fluid" />
                 </div>
