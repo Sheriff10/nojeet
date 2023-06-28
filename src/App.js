@@ -7,6 +7,7 @@ import { HTB } from './components/how_to_buy';
 import Tokenomics from './components/tokenomics';
 import Roadmap from './components/roadmap';
 import Footer from './components/footer';
+import Contact from './components/contact';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Tokenomics />
       <HTB />
       <Roadmap />
+      <Contact />
       <Footer />
     </div>
   );

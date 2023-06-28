@@ -29,7 +29,7 @@ export default function Roadmap() {
                   onslaught of intensity. Prepare for jaw-dropping surprises
                </div>
             </div>
-            <div className="row">
+            {/* <div className="row">
                <div className="col-lg-4 col-12 p-2">
                   <div className="card-con">
                      <div className="c-head">
@@ -90,7 +90,7 @@ export default function Roadmap() {
                      </div>
                   </div>
                </div>
-            </div>
+            </div> */}
          </div>
       </div>
    );
