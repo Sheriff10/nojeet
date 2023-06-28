@@ -19,11 +19,15 @@ export default function About() {
                      </div>
                      <div className="abt-text-body ">
                         <p>
-                           Lorem ipsum dolor sit amet consectetur adipisicing
-                           elit. Perferendis similique quos dignissimos modi
-                           iste voluptatum unde? Dolor aspernatur dolore fugit
-                           explicabo, aliquam eveniet consectetur reiciendis
-                           possimus et sint, corporis dolorem.
+                           Notforjeets ($JEETS) is a meme token designed with a
+                           unique purpose - to teach jeets a lesson and have a
+                           little fun along the way. We are tired of Jeets and
+                           have decided to create a token Notforjeets (JEETS)
+                           We're a group of passionate individuals committed to
+                           creating an exciting community-driven project.
+
+                           <br /> <br />
+                           TOKENOMICS: Supply: 999,000,000,000,000,000 JEETS
                         </p>
                      </div>
                   </div>

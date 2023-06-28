@@ -13,11 +13,12 @@ export default function Intro() {
                      </div>
                      <div className="intro-text-body text-light">
                         <p>
-                           Lorem ipsum dolor sit amet consectetur adipisicing
-                           elit. Odio, aperiam a facilis ratione blanditiis,
-                           officiis accusantium quaerat minima, quae optio
-                           quidem quod debitis pariatur officia praesentium
-                           laboriosam. Vitae, accusantium mollitia?
+                           This token exists to make Jeets bag sellers regret
+                           their choice. It reminds them of missed opportunities
+                           and the value they let go. With each transaction, it
+                           reinforces the message that holding onto Jeets bags
+                           would have been wiser. It's a powerful symbol, urging
+                           reflection and motivating future action.
                         </p>
                         <div className="img-con">
                            {imgArr.map((i, index) => (
@@ -30,9 +31,9 @@ export default function Intro() {
                   </div>
                </div>
                <div className="col-lg-4 col-12">
-                <div className="intro-img d-flex justify-content-center">
-                    <img src="./pepe.png" alt="jeet" className="img-fluid" />
-                </div>
+                  <div className="intro-img d-flex justify-content-center">
+                     <img src="./pepe.png" alt="jeet" className="img-fluid" />
+                  </div>
                </div>
             </div>
          </div>
