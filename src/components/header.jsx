@@ -11,8 +11,7 @@ export default function Header() {
             <div className="row align-items-center">
                <div className="col">
                   <div className="logo-con d-flex align-items-center">
-                     <img src="./pepe.png" alt="jeet" className="img-fluid" />
-                     <h3 className="p-2">JEET</h3>
+                     <img src="./jeets.png" alt="jeet" className="img-fluid" />
                   </div>
                </div>
                <div className="col-6">

@@ -8,7 +8,7 @@ export default function Tokenomics() {
                <h1>Tokenomics</h1>
             </div>
             <div className="tk-body">
-               <div className="row">
+               <div className="row align-items-center">
                   <div className="col-lg-6 col-12">
                      <div className="tk-body-text">
                         <div className="tk-text-head mb-2">
@@ -29,9 +29,9 @@ export default function Tokenomics() {
                      </div>
                   </div>
                   <div className="col-lg-6 col-12">
-                     <div className="tk-img-con text-right">
+                     <div className="tk-img-con text-center">
                         <img
-                           src="./tkimg.png"
+                           src="./j2.jpeg"
                            alt="jeet"
                            className="img-fluid"
                         />

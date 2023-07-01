@@ -17,7 +17,7 @@
   padding: 5px 10px;
 }
 .header img {
-  width: 50px;
+  width: 150px;
 }
 .header .x, .header .bar {
   display: none;
@@ -87,6 +87,12 @@
   border: 2px solid #fff;
   margin-top: 20px;
 }
+.tokenomics img{
+  width: 250px;
+  height: 300px;
+  border-radius: 50%;
+  margin: 20px;
+}
 
 /* roadmap */
 .roadmap{
@@ -99,6 +105,9 @@
 }
 .roadmap .c-head{
   text-align: center;
+}
+.roadmap img{
+  width: 300px;
 }
 /* foote{r */
 .footer {

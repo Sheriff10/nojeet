@@ -9,7 +9,7 @@ export default function Roadmap() {
             </div>
             <div className="row  text-center p-3 justify-content-center">
                <div className="col-lg-4 p-3 col-12 ">
-                  <img src="./pepe.png" alt="jeet" />
+                  <img src="./jeets.png" alt="jeet" />
                </div>
                <div className="col-lg-4 p-3 col-12">
                   <div className="r-wrap">
@@ -20,7 +20,7 @@ export default function Roadmap() {
                   </div>
                </div>
                <div className="col-lg-4 p-3 col-12">
-                  <img src="./pepe.png" alt="jeet" />
+                  <img src="./jeets.png" alt="jeet" />
                </div>
             </div>
             <div className="d-flex justify-content-center">

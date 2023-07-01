@@ -2,6 +2,7 @@ import React from "react";
 
 export default function Intro() {
    const imgArr = ["./tw.png", "./tg.png", "./pkswap.png", "./bscscan.png"];
+   const links = ['https://twitter.com/Notforjeets?t=9_0pAXNHSpAUH7bpv5n1kQ&s=09', 'https://t.me/NFJEETS']
    return (
       <div className="intro bg-pr">
          <div className="container">
@@ -20,7 +21,7 @@ export default function Intro() {
                         </p>
                         <div className="img-con">
                            {imgArr.map((i, index) => (
-                              <a href="#">
+                              <a href={links[index]}>
                                  <img src={i} alt="$Jeet" />
                               </a>
                            ))}
