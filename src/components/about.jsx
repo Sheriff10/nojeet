@@ -7,7 +7,7 @@ export default function About() {
             <div className="row align-items-center">
                <div className="col-lg-6 col-12">
                   <div className="img-con text-center">
-                     <img src="./pepe.png" alt="jeet" className="img-fluid" />ƒ
+                     <img src="./cry.jpg" alt="jeet" className="img-fluid" />
                   </div>
                </div>
                <div className="col-lg-6 col-12">

@@ -31,7 +31,7 @@ export default function Intro() {
                </div>
                <div className="col-lg-4 col-12">
                   <div className="intro-img d-flex justify-content-center">
-                     <img src="./pepe.png" alt="jeet" className="img-fluid" />
+                     <img src="./jeets.png" alt="jeet" className="img-fluid" />
                   </div>
                </div>
             </div>
