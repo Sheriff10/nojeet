@@ -13,7 +13,7 @@ export default function Tokenomics() {
                      <div className="tk-body-text">
                         <div className="tk-text-head mb-2">
                            <h3>
-                              Token Supply: <br /> 420,690,000,000,000
+                              Token Supply: <br /> 999,000,000,000,000,000
                            </h3>
                         </div>
                         <div className="wrap">

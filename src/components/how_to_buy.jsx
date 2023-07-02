@@ -19,12 +19,12 @@ export const HTB = () => {
       ),
       htbFunc(
          "pkswap.png",
-         "Purchase $MPEPE using Pancakeswap",
+         "Purchase $Jeets using Pancakeswap",
          "Navigate to Pancakeswap.finance and ensure you are on BSC mainnet. Use V2 to buy.",
          "tXn"
       ),
       htbFunc(
-         "h4.png",
+         "jeets.png",
          "Switch BSC for $Jeet",
          "Swap BSC for $Jeet on the V2 exchange , if the token doesn’t appear copy paste the contract.There is Zero Tax so there is no worry for specific slippage, although you may have to use slippage during market volatility.",
          "tXp"
