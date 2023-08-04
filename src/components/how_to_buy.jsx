@@ -24,7 +24,7 @@ export const HTB = () => {
          "tXn"
       ),
       htbFunc(
-         "jeets.png",
+         "n.png",
          "Switch BSC for $Jeet",
          "Swap BSC for $Jeet on the V2 exchange , if the token doesn’t appear copy paste the contract.There is Zero Tax so there is no worry for specific slippage, although you may have to use slippage during market volatility.",
          "tXp"
