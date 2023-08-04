@@ -8,7 +8,16 @@ a{
     text-align: right;
 }
 .bg-pr {
-    background: #00a800;
+    background: #262626;
+}
+.bg-yellow {
+    background: #edae01;
+}
+.text-yellow {
+    color: #c79301;
+}
+.bg-sec{
+    background: #3c3a3a;
 }
 p{
     font-size: 28px;

@@ -1,5 +1,5 @@
 .header{
-  background: #00a800;
+  background: #262626;
   padding: 20px 0px;
   display: flex;
   align-items: center;
@@ -17,7 +17,7 @@
   padding: 5px 10px;
 }
 .header img {
-  width: 150px;
+  width: 60px;
 }
 .header .x, .header .bar {
   display: none;
@@ -95,26 +95,31 @@
   margin-top: 20px;
 }
 .tokenomics img{
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
+  width: 50px;
   margin: 20px;
+}
+.tokenomics i#ti0 {
+  color: pink;
+}
+.tokenomics i#ti1 {
+  color: #c79301;
+}
+.tokenomics i#ti3 {
+  color: rgb(81, 81, 255);
+}
+.tokenomics .cir {
+  width: 300px;
 }
 
 /* roadmap */
 .roadmap{
   padding: 40px 0px;
 }
-.roadmap .card-con, .roadmap .r-wrap{
-  background: #0000007e;
-  padding: 15px;
-  border-radius: 20px 0px 20px 0px;
-}
-.roadmap .c-head{
-  text-align: center;
-}
-.roadmap img{
-  width: 300px;
+
+.roadmap .cards {
+  background: linear-gradient(to top, goldenrod, #a06006) ;
+  border-radius: 20px;
+  box-shadow: 10px 10px 0px #494848;
 }
 /* foote{r */
 .footer {
@@ -149,7 +154,7 @@ a{
 @media (max-width: 1024px) {
   .header .menu-con{
     position: fixed;
-    background: #00a800;
+    background: #262626;
     left: 0;
     right: 0;
     bottom: 0;

@@ -11,7 +11,7 @@ export default function Header() {
             <div className="row align-items-center">
                <div className="col">
                   <div className="logo-con d-flex align-items-center">
-                     <img src="./jeets.png" alt="jeet" className="img-fluid" />
+                     <img src="./n.png" alt="jeet" className="img-fluid" /> <span className="ms-3 fs-1">JEETS</span>
                   </div>
                </div>
                <div className="col-6">
@@ -30,7 +30,7 @@ export default function Header() {
                </div>
                <div className="col">
                   <div className="btn-con text-right">
-                     <button className="btn btn-lg">Buy now </button>
+                     <button className="btn btn-lg bg-yellow px-4">Buy now </button>
                      <i className="bar" onClick={toggleMenu}>
                         <FaBars />{" "}
                      </i>
