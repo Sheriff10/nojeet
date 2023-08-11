@@ -17,7 +17,7 @@ export default function Intro() {
                            We are a group of degens who are here for the
                            enjoyment and community spirit. This project is
                            solely meant to teach jeets a lesson and bring
-                           laughter to the BSC community.
+                           laughter to the BASE mainnet community.
                         </p>
                         <div className="img-con">
                            {imgArr.map((i, index) => (

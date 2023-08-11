@@ -13,22 +13,16 @@ export const HTB = () => {
       ),
       htbFunc(
          "bscscan.png",
-         "Fund your wallet with BSC",
-         "Have some BSC (binance smart chain) token. $Jeet will be launching on bsc chain. you need BSC to purchase the token on a DEX (Pancakeswap).",
+         "Fund your wallet with BASE ETH",
+         "Fund your wallet with base by bridging from eth",
          "tXp"
       ),
       htbFunc(
          "pkswap.png",
-         "Purchase $Jeets using Pancakeswap",
-         "Navigate to Pancakeswap.finance and ensure you are on BSC mainnet. Use V2 to buy.",
+         "Purchase $Jeets using Rocketswap",
+         "Navigate to https://rocketswap.exchange/ and ensure you are on BASE mainnet.",
          "tXn"
-      ),
-      htbFunc(
-         "n.png",
-         "Switch BSC for $Jeet",
-         "Swap BSC for $Jeet on the V2 exchange , if the token doesn’t appear copy paste the contract.There is Zero Tax so there is no worry for specific slippage, although you may have to use slippage during market volatility.",
-         "tXp"
-      ),
+      )
    ];
    return (
       <div className="htb bg-pr" id="buy">

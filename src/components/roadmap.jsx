@@ -23,7 +23,7 @@ export default function Roadmap() {
                               <li>Coingecko Listing</li>
                               <li>Coinmarketcap Listing</li>
                               <li>Distribution of Airdrop (PHASE !)</li>
-                              <li>1000</li>
+                              <li>1000 holders</li>
                            </ul>
                         </div>
                      </div>
